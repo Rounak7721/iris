@@ -1,4 +1,4 @@
-# IRIS
+# IRIS — Intelligent Robotics and Interaction System
 
 > **Work in Progress — Active Development**
 >
